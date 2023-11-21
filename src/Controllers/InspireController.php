@@ -6,7 +6,7 @@ use Matrix\Inspire\Inspire;
 
 class InspireController
 {
-    public function invoke(Inspire $inspire) {
+    public function invoke(Inspire $inspire) { 
         $quote = $inspire->justDoIt();
 
         return view('inspire::index', compact('quote'));

@@ -1,6 +1,6 @@
 <?php
 
-namespace Matrix\Inspire;
+namespace Matrixm\Inspire;
 
 use Illuminate\Support\Facades\Http;
 

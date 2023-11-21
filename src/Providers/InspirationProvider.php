@@ -1,6 +1,6 @@
 <?php
 
-namespace Matrix\Inspire\Providers;
+namespace Matrixm\Inspire\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

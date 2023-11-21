@@ -1,6 +1,6 @@
 <?php
 
-use Matrix\Inspire\Controllers;
+use Matrixm\Inspire\Controllers;
 use Illuminate\Support\Facades\Route;
-use Matrix\Inspire\Controllers\InspireController;
+use Matrixm\Inspire\Controllers\InspireController;
 Route::get('inspire', [InspireController::class, 'invoke']);

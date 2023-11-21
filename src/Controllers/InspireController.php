@@ -1,5 +1,5 @@
 <?php
-namespace Matrix\Inspire\Controllers;
+namespace Matrixm\Inspire\Controllers;
 
 use Illuminate\Http\Request;
 use Matrix\Inspire\Inspire;
